@@ -1,0 +1,6 @@
+/.auctex-auto/
+*.aux
+*.log
+*.out
+*.pdf
+*.gz
