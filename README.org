@@ -1,0 +1,15 @@
+#+title: CV
+#+author: Cristian Romero Andrade
+
+* Tabla de Contenidos
+:PROPERTIES:
+:TOC: :include all
+:END:
+:CONTENTS:
+- [[#tabla-de-contenidos][Tabla de Contenidos]]
+- [[#curriculum-vitae][Curriculum Vitae]]
+:END:
+
+* Curriculum Vitae
+Basado en una plantilla de
+[[https://www.overleaf.com/latex/templates/monocol-navbar-cv/xdhwjpkpmxyv][overleaf]]
